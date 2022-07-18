@@ -8,7 +8,7 @@ I'm currently studying an Informatics Engineer degree at INACAP, but just for th
 
 * 🌍  I'm based in Iquique, Chile
 * ✉️  You can contact me at [devpabloch@gmail.com](mailto:devpabloch@gmail.com)
-* 🧠  I'm learning MongoDB, React and Systems Design
+* 🧠  I'm learning React and Systems Design
 * 🤝  I'm open to collaborating on any project where I'm able to learn
 
 ### Skills
